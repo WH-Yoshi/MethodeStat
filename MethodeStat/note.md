@@ -11,6 +11,8 @@
 
 Voir ChatGPT [Conversation](https://chatgpt.com/c/6717d9e8-408c-8004-9fe6-4b0553fc8529)
 
+# Statistiques déscriptive
+
 ## Formules
 
 Bernoulli ou binomiale : 
@@ -90,4 +92,29 @@ Distribution normale ou gaussienne :
 - $Y = \ln(y)$, $X = x$, $A = a$, $B = \ln(b)$
 - $Y = AX + B$
 
-### 
+# Statistique Inférentielle
+
+## Vocabulaire
+
+- $\mu_{\overline{X}}$ : Moyenne de la distribution des moyennes
+- $\sigma_{\overline{X}}$ : Ecart-type de la sitribution des moyennes
+
+### Population
+
+- $N$ : Population
+- $\mu$ = Moyenne
+- $\sigma$ = Ecart-type
+
+### Echantillon
+
+- $n$ : échantillons $n \in N$
+
+#### Propriétés exhaustivité (`replace=False`)
+
+- $\mu_{\overline{X}} = \mu$
+- $\sigma_{\overline{X}} = \frac{\sigma}{\sqrt{n}}\sqrt{\frac{N-n}{N-1}}$
+
+#### Propriétés non-exhaustivité (`replace=True`)
+
+- $\mu_{\overline{X}} = \mu$
+- $\sigma_{\overline{X}} = \frac{\sigma}{\sqrt{n}}$
