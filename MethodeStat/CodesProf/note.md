@@ -3,7 +3,7 @@
 - Médiane : Valeur qui partage une série statistique en deux parties égales.
 - Moyenne : Somme des valeurs divisée par le nombre de valeurs.
 - Mode : Valeur la plus fréquente.
-- Etendue : Différence entre la plus grande et la plus petite valeur. page 52
+- Étendue : Différence entre la plus grande et la plus petite valeur. page 52
 - Quartile : Valeurs qui partagent une série statistique en quatre parties égales.
 - Variance : Somme des carrés des écarts à la moyenne divisée par le nombre de valeurs. page 52
 
@@ -93,7 +93,7 @@ Distribution normale ou gaussienne :
 ## Vocabulaire
 
 - $\mu_{\overline{X}}$ : Moyenne de la distribution des moyennes
-- $\sigma_{\overline{X}}$ : Ecart-type de la sitribution des moyennes
+- $\sigma_{\overline{X}}$ : Écart-type de la distribution des moyennes
 
 ### Population
 
@@ -101,7 +101,7 @@ Distribution normale ou gaussienne :
 - $\mu$ = Moyenne
 - $\sigma$ = Ecart-type
 
-### Echantillon
+### Échantillon
 
 - $n$ : échantillons $n \in N$
 
