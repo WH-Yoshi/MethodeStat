@@ -7,10 +7,6 @@
 - Quartile : Valeurs qui partagent une série statistique en quatre parties égales.
 - Variance : Somme des carrés des écarts à la moyenne divisée par le nombre de valeurs. page 52
 
-## Propriétés
-
-Voir ChatGPT [Conversation](https://chatgpt.com/c/6717d9e8-408c-8004-9fe6-4b0553fc8529)
-
 # Statistiques déscriptive
 
 ## Formules
